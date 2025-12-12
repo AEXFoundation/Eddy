@@ -7,4 +7,4 @@ Commercial Use Authorization Clause
 -----------------------------------
 Commercial use of this work is allowed only with prior written 
 permission from the copyright holder. To request commercial 
-authorization, contact: <wzssmex@gmail.com>. See more information at [BY-NC-ND 3.0](https://github.com/AEXFoundation/Eddy/blob/main/LICENSE)
+authorization, contact: [Wiz](mailto:wzssmex@gmail.com). See more information at [BY-NC-ND 3.0](https://github.com/AEXFoundation/Eddy/blob/main/LICENSE)
