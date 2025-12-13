@@ -1,5 +1,5 @@
-Commercial Use Authorization Clause
------------------------------------
+# Commercial Use Authorization Clause
+
 Commercial use of this work is allowed only with prior written 
 permission from the copyright holder. To request commercial 
 authorization, contact [Aether](mailto:wzssmex@gmail.com). See more information at [license](https://github.com/AEXFoundation/Eddy/blob/main/LICENSE).
